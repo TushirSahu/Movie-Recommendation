@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+span.css-10trblme16nr0p30{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkred;
+    font-size: small;
+}
+.stButton >  button{
+    background-color: darkred;
+    border-radius: 20px;
+    width: 40%;
+    height: 25%;
+    font-size: 19px;
+    color: white;
+}
+
+.css-15tx938{
+    font-size: 26px;
+    color: darkred;
+    font-weight: 569;
+} 
+.stSelectbox > css-15tx938effi0qh3{
+    color: darkred;
+}
+.st-bo {
+    color: grey;
+    font-size: 18px;
+    font-family: cursive;
+    /* background-color: red; */
+}
+.css-ocqkz7 {
+    gap: 100px;
+    padding: 20px;
+}
+.css-183lzff{
+    color: white;
+    font-weight: 500;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    word-spacing: 2px;
+    display: flex;
+    justify-content: center;
+}
+
